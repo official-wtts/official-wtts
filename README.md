@@ -1,12 +1,6 @@
 - 👋 Hi, I’m @official-wtts
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning python and bootstrap
-- 💞️ I’m looking to collaborate on discord at official.wtts
-- 📫 How to reach me? on discord
+- 👀 I’m interested in creating discord bots, creating web pages, adding modifications to discord bots in Python, JavaScript
+- 🌱 I’m currently learning Python, JavaScript, TypeScript, Bootstrap
+- 💞️ I’m looking to collaborate on discord at official.wtts.dev
+- 📫 How to reach me? Send a email to official.wtts.dev@gmail.com or send a message on discord to official.wtts.dev
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: ...
-
-<!---
-official-wtts/official-wtts is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
